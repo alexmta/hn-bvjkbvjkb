@@ -2214,12 +2214,12 @@
             <tbody>
                 <tr>
                     <td><strong>SLOT MAXWIN</strong></td>
-                    <td><a class="button" href="https://rebrand.ly/79jrxlv " target="_blank"
+                    <td><a class="button" href="https://rebrand.ly/79jrxlv" target="_blank"
                             rel="nofollow noopener">Daftar</a></td>
                 </tr>
                 <tr>
                     <td><strong>MAXWIN SLOT</strong></td>
-                    <td><a class="button" href="https://rebrand.ly/79jrxlv " target="_blank"
+                    <td><a class="button" href="https://rebrand.ly/79jrxlv" target="_blank"
                             rel="nofollow noopener">Daftar</a></td></tr>
             </tbody>
             <tbody></tbody>
@@ -2253,7 +2253,7 @@
                     </tr>
                     <tr>
                         <td style="padding: 10px;">Minimal Deposit</td>
-                        <td style="padding: 10px;">💰Rp. 10.000,-</td>
+                        <td style="padding: 10px;">💰Rp. 25.000,-</td>
                     </tr>
                     <tr>
                         <td style="padding: 10px;">Mata Uang</td>
@@ -2616,16 +2616,16 @@
     </div>
     </div>
     <div class="fixed-footer">
-        <a href="https://rebrand.ly/79jrxlv " rel="nofollow noopener" target="_blank" class="wobble">
+        <a href="https://rebrand.ly/79jrxlv" rel="nofollow noopener" target="_blank" class="wobble">
             <amp-img layout="intrinsic" height="75" width="75"
                 src="https://i.postimg.cc/76qqpY2p/download-slot-gacor.png" alt="Download Slot Maxwin"></amp-img>
             Download
         </a>
-        <a href="https://rebrand.ly/79jrxlv " rel="nofollow noopener" target="_blank" class="tada">
+        <a href="https://rebrand.ly/79jrxlv" rel="nofollow noopener" target="_blank" class="tada">
             <amp-img class="center" layout="intrinsic" height="50" width="50"
                 src="https://i.postimg.cc/X76wpgxk/daftar-slot-gacor.png" alt="Daftar Slot Maxwin"></amp-img> Daftar
         </a>
-        <a href="https://rebrand.ly/79jrxlv " rel="nofollow noopener" target="_blank" class="wobble">
+        <a href="https://rebrand.ly/79jrxlv" rel="nofollow noopener" target="_blank" class="wobble">
             <amp-img class="live-chat-icon" layout="intrinsic" height="75" width="75"
                 src="https://i.postimg.cc/3JzY3ZGj/live-chat-slot-gacor.png" alt="Livechat Slot Maxwin"></amp-img> Live
             Chat
